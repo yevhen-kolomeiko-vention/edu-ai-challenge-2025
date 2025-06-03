@@ -1,0 +1,18 @@
+You will get some short bug descriptions you need to fortmat like this:
+```
+* Title
+* Description
+* Steps to Reproduce
+* Expected vs Actual Behavior
+* Environment (if known)
+* Severity or Impact
+```
+
+Bugs:
+1. `Logout button doesn’t work on Safari. It just doesn’t respond`
+2.  `The "Add to Cart" button is missing on mobile view. It's just not there.`
+3.  `Search results don't update when I change the filter. They just stay the same.`
+4.  `Changing the password gives an error on Edge. It says "Something went wrong" but nothing specific.`
+5.  `The main menu disappears after scrolling down on iOS. It's just gone.`
+6.  `Saving changes in settings doesn’t stick on Firefox. It just reverts back.`
+7.  `The date picker is broken on Android. It just shows a blank square.`
